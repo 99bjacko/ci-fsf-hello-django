@@ -27,7 +27,8 @@ SECRET_KEY = os.environ.get("NEW_SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-99bjacko-cifsfhellodjan-x1qulb8dfqz.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = [
+    '8000-99bjacko-cifsfhellodjan-x1qulb8dfqz.ws.codeinstitute-ide.net']
 
 
 # Application definition
