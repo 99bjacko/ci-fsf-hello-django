@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get("NEW_SECRET_KEY")
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-99bjacko-cifsfhellodjan-x1qulb8dfqz.ws.codeinstitute-ide.net']
+    '8000-99bjacko-cifsfhellodjan-ajr4h7te8uz.ws.codeinstitute-ide.net']
 
 
 # Application definition
