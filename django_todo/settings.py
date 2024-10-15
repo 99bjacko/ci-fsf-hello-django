@@ -30,7 +30,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-99bjacko-cifsfhellodjan-ajr4h7te8uz.ws.codeinstitute-ide.net',
-    'https://jacko99b-django-todo-app-ab9669ad6f5e.herokuapp.com']
+    'jacko99b-django-todo-app-ab9669ad6f5e.herokuapp.com']
 
 
 # Application definition
